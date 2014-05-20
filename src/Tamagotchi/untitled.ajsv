@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2013-五月-27 04:54" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" version="1.7.12.v20121026-1649">
+        <class className="Tamagotchi.Pet" project="SENG201-Assignment" xLocation="0" yLocation="0"/>
+        <class className="Tamagotchi.Toys" project="SENG201-Assignment" xLocation="20" yLocation="20"/>
+        <class className="Tamagotchi.Food" project="SENG201-Assignment" xLocation="40" yLocation="40"/>
+        <class className="Tamagotchi.Tamagotchi" project="SENG201-Assignment" xLocation="60" yLocation="60"/>
+    </diagram>
+</ajsv>
