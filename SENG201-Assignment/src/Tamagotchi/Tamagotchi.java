@@ -4,13 +4,10 @@ package Tamagotchi;
  */
 /**
  * @author Liguo Jiao
-
  * Student ID : 91734390
  * University Of Canterbury
- * date:15-03-2013
- * 
  */
- *
+
 
 import java.awt.EventQueue;
 import java.awt.event.ActionEvent;
